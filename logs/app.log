@@ -1,0 +1,14 @@
+17:06:40.196 [http-nio-8080-exec-2] INFO  com.example.demo.controller.DemoController - --info
+17:06:40.197 [http-nio-8080-exec-2] WARN  com.example.demo.controller.DemoController - --warn
+17:40:57.879 [http-nio-8080-exec-2] INFO  com.example.demo.controller.DemoController - --info
+17:40:57.880 [http-nio-8080-exec-2] WARN  com.example.demo.controller.DemoController - --warn
+17:44:28.984 [http-nio-8080-exec-2] INFO  com.example.demo.controller.DemoController - --info
+17:44:28.985 [http-nio-8080-exec-2] WARN  com.example.demo.controller.DemoController - --warn
+17:46:03.365 [http-nio-8080-exec-2] INFO  com.example.demo.controller.DemoController - --info
+17:46:03.366 [http-nio-8080-exec-2] WARN  com.example.demo.controller.DemoController - --warn
+17:46:03.367 [http-nio-8080-exec-2] ERROR com.example.demo.controller.DemoController - --error
+17:46:03.367 [http-nio-8080-exec-2] FATAL com.example.demo.controller.DemoController - --fatal
+17:47:23.629 [http-nio-8080-exec-2] INFO  com.example.demo.controller.DemoController - --info
+17:47:23.629 [http-nio-8080-exec-2] WARN  com.example.demo.controller.DemoController - --warn
+17:47:23.629 [http-nio-8080-exec-2] ERROR com.example.demo.controller.DemoController - --error
+17:47:23.629 [http-nio-8080-exec-2] FATAL com.example.demo.controller.DemoController - --fatal
